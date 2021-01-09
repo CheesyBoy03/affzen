@@ -1,0 +1,7 @@
+#formBlock .content {
+  justify-content: center;
+}
+#formBlock .content .form .feedback .button {
+  padding-top: 10px;
+  margin-left: -5px;
+}
